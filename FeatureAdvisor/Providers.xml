@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Options Language="Neutral">
+    <Providers>
+      <Item Id="{a4e4940f-ed53-4c0f-976b-91b5e7968b01}">
+        <AdvisorName>Clipboard History</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{e2a98363-8c82-4898-98db-24ebf9ec78b3}">
+        <AdvisorName>Code Cleanup</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{9b6bda21-ff34-4d83-9043-a7ed71833491}">
+        <AdvisorName>Comment Selection</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{0a784bd4-bcc4-43a2-85da-70388cb229c6}">
+        <AdvisorName>Smart Duplicate Line</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{c7a54385-c596-4d83-bf04-0fac69d1fcdc}">
+        <AdvisorName>Template: Case statement declaration</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{cf0707f6-1a68-429a-afeb-fedfc8756acf}">
+        <AdvisorName>Template: Type declaration</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{e1f0595c-c625-4243-ba2a-30ed6e60b9fe}">
+        <AdvisorName>Template: Field declaration</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{94b44b3a-9794-4e53-b9cc-15c4853e9133}">
+        <AdvisorName>Template: For statement declaration</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{dbc10bb4-21cf-4b97-8614-47daa40d4982}">
+        <AdvisorName>Template: Method declaration</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{52ccc24a-91e8-435f-8a8f-0745d971caa3}">
+        <AdvisorName>Template: Property declaration</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{248c4732-4120-47f9-8cb1-d3b78061242a}">
+        <AdvisorName>Template: Switch\Select statement declaration</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{b88d437a-622c-4c8e-9065-bdc0c8b2af06}">
+        <AdvisorName>Template: Using statement declaration</AdvisorName>
+        <Enabled>True</Enabled>
+      </Item>
+    </Providers>
+    <Enabled>False</Enabled>
+  </Options>
+</Root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Options Language="C#">
+    <FormatBlockOnCloseBrace>True</FormatBlockOnCloseBrace>
+    <FormatStatementOnSemicolon>True</FormatStatementOnSemicolon>
+    <VSFormatBlockOnCloseBrace>True</VSFormatBlockOnCloseBrace>
+    <VSFormatStatementOnSemicolon>True</VSFormatStatementOnSemicolon>
+  </Options>
+</Root>

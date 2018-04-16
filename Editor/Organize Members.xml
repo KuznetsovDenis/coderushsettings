@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Options Language="Neutral">
+    <Schemes>
+      <Item Id="{537ce5d1-771a-4e99-9f4a-c409ebd5e213}">
+        <Rules>
+          <Item Id="{9342cdc6-d236-4c9c-bac8-b59d9439394c}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule">
+            <GroupRule Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.GroupByKindRule">
+              <Kind>Class</Kind>
+            </GroupRule>
+            <SortingRule Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.SingleSortingsRule">
+              <Sorting>Name</Sorting>
+            </SortingRule>
+            <RuleName>Classes</RuleName>
+          </Item>
+          <Item Id="{1eb07ab2-16f0-4bf2-a2a6-33b899b861b8}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{ebd30c1d-59b5-4a03-9f33-8813a996b952}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{02fdb982-e0dd-4b47-84c3-f44926013188}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{f5649b7d-32eb-4a64-88b4-5de14ed335e4}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{b72b1c09-252f-4d4f-881c-1a4832911d5f}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{335094b6-641c-4832-bfdc-84087f8c7b24}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{89215376-ecad-435a-a6bf-137f09a41f0d}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{6653a3b6-576e-4f5e-9c6a-a440ee257399}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{9d6898f1-002e-4c71-a281-1ec6e78a3003}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{1c54e8e0-33dd-4a95-8899-42ba94669156}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{d6d0a5a4-c770-47f3-8cda-c699e76101d1}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{0fcd1a59-0fc8-4bde-9db7-2d73508b918d}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{907fc4a7-efee-4337-af73-d71b996b3923}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{bcbd84af-ad2b-4353-a834-ece7b6e41d92}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{eae9a2ed-5135-45c6-9cd1-e75ee9e9ac68}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{7e2e2ef2-8ef3-4f28-825d-ce10da1931e6}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{4651e354-b408-4df4-bb8c-0490daddccaa}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{48b47296-0fd0-4056-bdc1-b09ae6266d06}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{45e128f7-55bf-4186-b09c-760d2a6477cb}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{c9b4252f-60a9-48d3-869e-2c3c23c20aae}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+          <Item Id="{c87a250e-ef05-4000-9e2c-e5c078ce51ae}" Type="DevExpress.CodeAnalysis.CodeCleanUp.OrganizeMembers.OrganizeMembersGroupAndSortRule" />
+        </Rules>
+      </Item>
+      <Item Id="{fb41924a-35f9-47ee-8f8c-74cc34c4bf63}" />
+    </Schemes>
+    <RemoveExistingLineBreaks>True</RemoveExistingLineBreaks>
+  </Options>
+</Root>

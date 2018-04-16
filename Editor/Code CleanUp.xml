@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Options Language="C#">
+    <Providers>
+      <Item Id="{9cd7d3f8-99e8-49a2-b888-f707147cfeda}">
+        <ProviderName>Organize members</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{e8e139c3-4c91-402d-858a-06ad80cb5ae1}">
+        <ProviderName>Collapse property accessors</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{943d17e7-03ae-461c-a363-da311c2da468}">
+        <ProviderName>Convert to string interpolation</ProviderName>
+      </Item>
+      <Item Id="{62d71d1c-62d4-448e-bfb3-bceec2764b42}">
+        <ProviderName>Expand property accessors</ProviderName>
+      </Item>
+      <Item Id="{8f7370a2-d967-466e-b397-eb03b92186b6}">
+        <ProviderName>Remove all regions</ProviderName>
+      </Item>
+      <Item Id="{5efee8c6-ae44-48ad-a2f7-a53270d1e2a8}">
+        <ProviderName>Remove redundant 'base' qualifier</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{260a20c0-1aab-4424-a5af-90ce8eae1971}">
+        <ProviderName>Remove redundant type cast</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{902dd724-96f1-4858-ba70-7d1f1d116a9e}">
+        <ProviderName>Remove unused members</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{46d225a5-4250-4e8a-b0b8-620b6c206200}">
+        <ProviderName>Sort namespace references</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{3baadb91-e43a-4327-b9fa-527c3a71011b}">
+        <ProviderName>Use expression bodies</ProviderName>
+      </Item>
+      <Item Id="{f1727369-ed3a-4a34-b82c-c8a24e6001bf}">
+        <ProviderName>Use 'nameof'</ProviderName>
+      </Item>
+      <Item Id="{a070fb17-0191-4a23-818e-79a80a062b91}">
+        <ProviderName>Convert to string.Empty</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{dd0eca6b-67be-4214-865d-5345bb66534d}">
+        <ProviderName>Remove unused namespace references</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{c009e83e-6360-4889-9359-d42f20dcfcb1}">
+        <ProviderName>Remove all comments, excluding XML comments</ProviderName>
+      </Item>
+      <Item Id="{45b12571-5256-41c0-858b-b4f19ee0c45d}">
+        <ProviderName>Remove unused variables</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{e950f01e-2b15-4da5-8176-cafe3cc883d9}" />
+      <Item Id="{4d908c49-e4da-424f-8da2-8bb8dfad6c84}">
+        <ProviderName>Apply variable declaration style</ProviderName>
+      </Item>
+      <Item Id="{694351a0-a7d0-4095-a861-7d64b20ff001}">
+        <ProviderName>Sort modifiers</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{0c87a942-3139-494b-9927-bc45b84343a2}">
+        <ProviderName>Apply 'Attribute lists' style</ProviderName>
+      </Item>
+      <Item Id="{fc611002-6d84-4107-aac8-ce54be55eb78}">
+        <ProviderName>Apply 'Attribute lists' style to assembly-level attributes</ProviderName>
+      </Item>
+      <Item Id="{f1c28484-7fbc-4c10-9e72-f8929d56b426}">
+        <ProviderName>Apply built-in type style</ProviderName>
+      </Item>
+      <Item Id="{a4d102bc-94f7-458b-aa68-f7baabe070c1}">
+        <ProviderName>Apply 'this' qualifier style</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{589712c4-5f6a-45cb-b993-05893d4ec2b3}">
+        <ProviderName>Apply visibility style</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{fd1c5400-3839-4e86-ac31-1d1d1285a861}">
+        <ProviderName>Format document</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{8b22bd46-707a-41e2-b99a-12e69d3fb18a}">
+        <ProviderName>Remove redundant type qualifiers</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{446d2d54-6cb8-48b5-8f8a-d97909cfb970}">
+        <ProviderName>Remove redundant braces in blocks without parent statement</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{7dbe5981-47af-4c6f-be76-aeb689f9f77f}">
+        <ProviderName>Apply 'Optional parenthesis' style to new object creation</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{b50e726a-ccfa-49c7-9407-da8f396f1186}">
+        <ProviderName>Apply 'Optional parenthesis' style to attributes</ProviderName>
+        <Enabled>True</Enabled>
+      </Item>
+      <Item Id="{8be408e9-e22e-4092-a9ca-8a86e4852d4f}">
+        <ProviderName>Apply the 'Optional parenthesis' style to explicitly specify the order of operations</ProviderName>
+      </Item>
+      <Item Id="{5e2a0faa-de71-493e-b344-3ee969fb487c}">
+        <ProviderName>Apply 'Braces in statements' style</ProviderName>
+      </Item>
+      <DeletedItem Id="{53ccb10f-f7af-40a6-9472-d05054672052}" />
+      <DeletedItem Id="{bb96a982-bed0-4d8f-93a7-1e1ce7493e96}" />
+      <DeletedItem Id="{12f6d456-d2ec-407e-aa44-2b74d7c56e9c}" />
+      <DeletedItem Id="{ffa114f4-9122-46e4-96c8-655d54c904e6}" />
+      <DeletedItem Id="{ab07124b-0893-4a2d-b6f5-39bfa9f10148}" />
+      <DeletedItem Id="{5d712912-91ed-4728-ba16-ac1821b702ca}" />
+      <DeletedItem Id="{5d4efc95-1a0e-4aaf-884c-153a0f129334}" />
+      <DeletedItem Id="{4216ef39-52bd-4e7f-92a7-673406f92bc8}" />
+      <DeletedItem Id="{f410df1e-6e44-4854-a3f0-14bb756113f9}" />
+      <DeletedItem Id="{d2f76d4e-97a9-4031-a7a2-23f192201426}" />
+      <DeletedItem Id="{3824f6f0-fee1-4847-94ff-1efa133ba199}" />
+      <DeletedItem Id="{d24bd9c7-7686-4101-9ec1-f61c19af8d2e}" />
+      <DeletedItem Id="{728751b0-c3fe-4ca3-b007-18407dfe148a}" />
+      <DeletedItem Id="{f804e36e-414f-409c-9b90-63b7727745a7}" />
+      <DeletedItem Id="{667107eb-f14d-47ef-a955-52a81c4af64e}" />
+      <DeletedItem Id="{833aa625-e537-4fad-9a7b-9a8788c9af17}" />
+      <DeletedItem Id="{e1cf9e0d-0903-45c5-8eb3-43ae55aeb180}" />
+      <DeletedItem Id="{6ed237ae-d67b-45c2-8955-5b06d8743435}" />
+      <DeletedItem Id="{bcaf9df2-60b2-4644-9d35-c77bc2dac07b}" />
+      <DeletedItem Id="{163af547-186c-4fa1-9a3e-b9b0a1ceec32}" />
+      <DeletedItem Id="{8e24f031-d25c-4ddb-86a5-c28f8fc354eb}" />
+      <DeletedItem Id="{21a1f310-db77-46c9-83d4-a1cf5fbe6d2c}" />
+    </Providers>
+  </Options>
+</Root>

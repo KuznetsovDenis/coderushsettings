@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Options Language="Neutral">
+    <RootFolder>
+      <SubFolders>
+        <Item Id="{01ea3896-6cc1-4912-824e-88c7c5a82a25}">
+          <SubFolders>
+            <Item Id="{4fe9d975-e06f-45ee-b9a4-79dfa309787e}">
+              <Bindings>
+                <Item Id="{a80b0add-f3d0-42d2-a516-7ef628a88058}">
+                  <Enabled>False</Enabled>
+                </Item>
+                <Item Id="{0c8cba11-7bab-4233-83eb-3752d1488f2d}">
+                  <Enabled>False</Enabled>
+                </Item>
+                <Item Id="{0f4276d6-3a81-455b-9a21-1ca046efb06e}" />
+                <DeletedItem Id="{997d45f9-3626-4439-a3ae-bb31b51a5b2a}" />
+                <DeletedItem Id="{9dfb6b6c-ea17-4d95-b70a-27ff77030006}" />
+              </Bindings>
+            </Item>
+            <Item Id="{617bf4c0-2098-418f-92a5-199c731a9265}" />
+            <Item Id="{0d027ecb-e83f-4f4a-97d7-01aa4edd9bb5}" />
+          </SubFolders>
+          <Bindings>
+            <Item Id="{88959174-9ffa-429b-bef8-aeddb65b9c2a}" />
+            <Item Id="{975814d0-802e-4143-a979-22d3f975cfc2}" />
+            <Item Id="{0260c6ac-cfdb-4874-88c5-66bbf9b84e9b}" />
+            <Item Id="{dd4ceb84-80b3-4517-ac9b-170dcffe646f}" />
+            <Item Id="{ee0b4600-2d2c-4700-8d4d-578027321f74}" />
+            <Item Id="{d37c2c40-a7c6-403f-8556-8fb690d4c656}" />
+            <Item Id="{baf8010d-02d7-4ac9-b644-0c670f796ce4}" />
+            <Item Id="{676742ae-19ea-4884-840d-2be66d9bb49c}">
+              <Enabled>False</Enabled>
+            </Item>
+            <Item Id="{43d481e0-19e4-405d-b7e3-687fc610050c}" />
+            <Item Id="{f1a06e4e-3241-438d-84e5-044e3e907492}" />
+            <Item Id="{c924c7b2-8b98-47e2-a284-66a227dbf5cb}">
+              <Key1>
+                <Shift>True</Shift>
+                <Ctrl>True</Ctrl>
+                <KeyState>5767169</KeyState>
+                <KeyCode>123</KeyCode>
+                <OriginalKeyState>5767169</OriginalKeyState>
+              </Key1>
+              <Key2 />
+              <Command>FindAllReferencesInNewTab</Command>
+              <ReadableContext></ReadableContext>
+            </Item>
+            <Item Id="{3b8cae25-e23f-443c-98ff-83d38711f26e}" />
+            <Item Id="{a06ba470-2048-47ac-b7af-93653ce09359}" />
+            <Item Id="{491253a6-324c-4a0f-b4e5-aff443b00fb9}" />
+            <Item Id="{1562ccb9-7f21-492d-8c71-42d5ff7ecf9a}" />
+            <Item Id="{4285d363-676e-4acd-af04-fdd301c82501}">
+              <Key1>
+                <KeyCode>46</KeyCode>
+              </Key1>
+              <Key2 />
+              <Command>Navigate</Command>
+              <SyncToVS>True</SyncToVS>
+              <ReadableContext>![IntellisenseActive] &amp;&amp; [CodeEditorHasFocus]</ReadableContext>
+            </Item>
+            <Item Id="{4d5011b2-27d0-4060-88c1-6060dc2f5af8}">
+              <Enabled>False</Enabled>
+              <Key1>
+                <Extended>True</Extended>
+                <KeyState>18612225</KeyState>
+                <KeyCode>13</KeyCode>
+              </Key1>
+              <Key2 />
+              <Command>JumpToSymbol</Command>
+              <SyncToVS>True</SyncToVS>
+              <ReadableContext>![IntellisenseActive] &amp;&amp; [CodeEditorHasFocus]</ReadableContext>
+            </Item>
+            <Item Id="{b253a65c-b13a-42bd-8d59-4a790ce19f3a}" />
+            <Item Id="{011d4fb6-22ba-4d11-8a05-ed753b5dbd8a}" />
+            <Item Id="{804634ae-7823-4541-a8fe-d7da6c807b41}" />
+            <Item Id="{9848d5d7-d513-4f1e-98aa-fcd21b3eb498}" />
+            <DeletedItem Id="{34c575e6-55c2-4d7f-a839-8167bfa1a831}" />
+          </Bindings>
+        </Item>
+        <Item Id="{66d31aae-e1f0-43b9-8108-123cb59d73bd}" />
+        <Item Id="{4fcfb46a-6fd9-4ba4-a790-6447cb1cf0a5}" />
+        <Item Id="{55d41133-671c-49f1-a934-6c5d59c3f319}">
+          <SubFolders>
+            <Item Id="{4bc2f87d-6dc0-41b5-9b0b-251498b765df}">
+              <Bindings>
+                <Item Id="{d18a79d1-fff5-4b71-8301-fb8f2397e0ac}" />
+                <Item Id="{cc238591-6417-4f4c-bca3-08b8ecbb8a1b}">
+                  <Enabled>False</Enabled>
+                </Item>
+              </Bindings>
+            </Item>
+          </SubFolders>
+          <Bindings>
+            <Item Id="{3cbca747-a777-4984-86f6-9987688f4e23}">
+              <Parameters>false</Parameters>
+            </Item>
+            <Item Id="{e29721b9-96d1-49b0-ab5e-55dcf6170644}" />
+            <Item Id="{ead139d2-ddb7-4251-a9cd-686b42f4dd72}" />
+            <Item Id="{51ddd495-85fc-4503-a6dc-c5c828fdbca9}" />
+            <Item Id="{94c8dc3a-5f41-4903-b352-532ad2df595e}" />
+            <Item Id="{3ed9e248-dbdd-402f-98f2-9c9eead1f2ad}" />
+            <Item Id="{ebad2dc4-813d-468c-8114-d354e370a9fb}" />
+          </Bindings>
+        </Item>
+        <Item Id="{a3f2b3b4-9497-4db5-9f8b-c4b30a2240ac}">
+          <SubFolders>
+            <Item Id="{28d84f66-997e-40f1-916b-bccd3a30e979}">
+              <Bindings>
+                <Item Id="{cf5e0bd9-3ceb-42b3-adfa-b93dd2c87e93}">
+                  <Key1>
+                    <Ctrl>False</Ctrl>
+                    <KeyState>0</KeyState>
+                    <KeyCode>0</KeyCode>
+                  </Key1>
+                </Item>
+                <Item Id="{4646ea7d-99ca-462f-bfd3-4ee7f398b310}" />
+                <Item Id="{929d817f-3800-4d53-bb60-2810a6d1ee8b}" />
+                <Item Id="{8f378564-7d90-4e9e-9264-52c1e4832f37}" />
+                <Item Id="{3c58f2fb-5e6c-4015-add0-b8c5cd5ee80b}" />
+                <Item Id="{9cfa836d-bb74-4e55-a80a-e9fa27304b5d}" />
+              </Bindings>
+            </Item>
+            <Item Id="{5f50d588-fef9-4f94-843a-08a71e81cadb}" />
+            <Item Id="{0e1a8f0e-939c-43d4-a574-17bc62e79d31}" />
+            <Item Id="{9742ad00-8e7d-4f8b-902b-cdb634e79708}">
+              <Bindings>
+                <Item Id="{1018b1c7-ffa9-4f84-82cd-024b186c923b}">
+                  <Enabled>False</Enabled>
+                </Item>
+                <Item Id="{1aeb51fa-b415-4e77-98ec-e01d32f0ca45}" />
+                <Item Id="{c9439415-2346-48da-8f57-cc7361057841}" />
+              </Bindings>
+            </Item>
+          </SubFolders>
+        </Item>
+        <Item Id="{318b8900-85af-4c66-b37f-8a86508e7a89}">
+          <Bindings>
+            <Item Id="{3ab84619-7303-4867-8cf6-2e8dc9a5eae8}" />
+            <Item Id="{be732537-8d33-47d4-a873-60cdeab3222b}" />
+            <Item Id="{49679624-e52d-47fa-994f-049418ed0dad}" />
+            <Item Id="{2f761621-f8b5-4e64-90d5-7917a2820238}" />
+            <Item Id="{3bc6c1e0-f1a6-49c4-8870-ae4568728a99}" />
+            <Item Id="{cdce02f5-4af1-4440-92be-621450e74df3}" />
+            <Item Id="{d010e91b-8d17-44a6-b81c-fecf93ea7b70}" />
+            <Item Id="{f9cbc4a0-d3af-4a37-8a99-51bc7e9c3105}" />
+            <Item Id="{9b1eff02-45bd-4e1b-bd9c-66bf0d6d32d2}" />
+            <Item Id="{f9da531f-1614-418a-b7aa-b27d8adf2955}" />
+            <Item Id="{538b5c15-f604-4436-b52a-2d99d2fb2c8c}" />
+            <Item Id="{e6164631-0529-4afd-b955-e0246634e3cc}" />
+            <Item Id="{350700a2-5c03-4833-98e3-4ac1c73cb2ca}" />
+            <Item Id="{767d1960-752e-4ad3-9f73-99622c855627}">
+              <Key1>
+                <KeyState>2818049</KeyState>
+                <KeyCode>220</KeyCode>
+                <OriginalKeyState>2818049</OriginalKeyState>
+              </Key1>
+              <Key2>
+                <Ctrl>True</Ctrl>
+                <KeyState>2818049</KeyState>
+                <KeyCode>220</KeyCode>
+                <OriginalKeyState>2818049</OriginalKeyState>
+              </Key2>
+            </Item>
+            <Item Id="{5c17ad85-07ca-4d10-888e-5154aa0c1589}" />
+            <Item Id="{b15b6dc2-0530-4baa-8cc9-61d1f35d2d52}" />
+            <Item Id="{5abf9aa8-8281-457c-b383-6b744fedea3b}" />
+          </Bindings>
+        </Item>
+        <Item Id="{d33fb6fa-56b3-40a1-b169-71e855b2e3a2}">
+          <Bindings>
+            <Item Id="{079e547d-bc24-4631-969a-0171c32637f3}" />
+            <Item Id="{ff2d1639-8962-46d1-a4b1-d7ed665629f3}">
+              <Key2>
+                <KeyState>1310721</KeyState>
+                <KeyCode>84</KeyCode>
+                <OriginalKeyState>1310721</OriginalKeyState>
+              </Key2>
+            </Item>
+            <Item Id="{7c72dd5b-4fd6-4fdf-9440-6351846d955d}" />
+            <Item Id="{68524a9c-6bf4-4cbc-a9a5-3e98e7eb3d4a}">
+              <Enabled>False</Enabled>
+              <Key1>
+                <KeyState>1114113</KeyState>
+                <KeyCode>87</KeyCode>
+                <OriginalKeyState>1114113</OriginalKeyState>
+              </Key1>
+              <SendKeyToIDEAfterHandling>True</SendKeyToIDEAfterHandling>
+            </Item>
+            <Item Id="{fc3bc99d-8f2c-4be8-9837-d8533bd98804}" />
+            <Item Id="{9f9aacae-78d4-4092-9026-0d6e2fd5451b}" />
+            <Item Id="{1b0220d9-719d-4cf0-9f8f-1c79bd671946}" />
+            <Item Id="{23121787-1780-48aa-a2d8-ad2d1b5f5de1}" />
+            <Item Id="{a9e7ebfb-fb7a-475f-ac2b-8689fcd3fa49}" />
+            <Item Id="{43518fe6-5f69-41bd-8c10-6b66b1ab8cf3}">
+              <Key2>
+                <KeyState>1310721</KeyState>
+                <KeyCode>84</KeyCode>
+                <OriginalKeyState>1310721</OriginalKeyState>
+              </Key2>
+            </Item>
+            <Item Id="{d6a8bdaf-4c17-4269-a455-8ca319eb8311}" />
+            <Item Id="{5e643cd0-539a-4b11-b43d-1cc60a34c70c}">
+              <Enabled>False</Enabled>
+              <Key1>
+                <KeyState>1114113</KeyState>
+                <KeyCode>87</KeyCode>
+                <OriginalKeyState>1114113</OriginalKeyState>
+              </Key1>
+              <SendKeyToIDEAfterHandling>True</SendKeyToIDEAfterHandling>
+            </Item>
+            <Item Id="{7c72334b-e526-4fa0-b95f-70155e46eb56}">
+              <Key1>
+                <Ctrl>True</Ctrl>
+                <KeyState>1310721</KeyState>
+                <KeyCode>84</KeyCode>
+                <OriginalKeyState>1310721</OriginalKeyState>
+              </Key1>
+              <Key2>
+                <KeyState>1245185</KeyState>
+                <KeyCode>82</KeyCode>
+                <OriginalKeyState>1245185</OriginalKeyState>
+              </Key2>
+              <Command>RepeatLastTests</Command>
+            </Item>
+            <Item Id="{ee7443b1-9f80-475f-819e-f4cde9d3ea72}">
+              <Key1>
+                <Ctrl>True</Ctrl>
+                <KeyState>1310721</KeyState>
+                <KeyCode>84</KeyCode>
+                <OriginalKeyState>1310721</OriginalKeyState>
+              </Key1>
+              <Key2>
+                <Ctrl>True</Ctrl>
+                <KeyState>1245185</KeyState>
+                <KeyCode>82</KeyCode>
+                <OriginalKeyState>1245185</OriginalKeyState>
+              </Key2>
+              <Command>RepeatLastTests</Command>
+            </Item>
+          </Bindings>
+        </Item>
+        <Item Id="{4aa0656f-7150-440b-8585-509c548e9d7e}" />
+        <Item Id="{5121d307-f4a1-4fc6-a2d2-eeb3236e8d60}">
+          <FolderName>Classic Compatibility</FolderName>
+          <SubFolders />
+          <Bindings>
+            <Item Id="{4aa33859-4b27-46d1-8dcc-fddd702d1b77}">
+              <Key1>
+                <KeyCode>45</KeyCode>
+              </Key1>
+              <Key2 />
+              <Command>View.QuickActionsForPosition</Command>
+              <SyncToVS>True</SyncToVS>
+              <ReadableContext>[CodeEditorHasFocus]</ReadableContext>
+            </Item>
+          </Bindings>
+        </Item>
+      </SubFolders>
+    </RootFolder>
+  </Options>
+</Root>

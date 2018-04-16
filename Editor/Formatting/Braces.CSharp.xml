@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Options Language="C#">
+    <Options>
+      <Item Id="{95544f1e-a8ad-42c7-a7d2-2a147291d4ef}" Type="DevExpress.CodeRush.Formatting.UI.Options.Conversion.NamespaceBracesOption">
+        <WrapOpenBrace>
+          <Kind>WrapAfter</Kind>
+        </WrapOpenBrace>
+      </Item>
+      <Item Id="{f788644a-acf4-4a51-8ef8-43ff863a3b14}" Type="DevExpress.CodeRush.Formatting.UI.Options.Conversion.TypeBracesOption">
+        <WrapOpenBrace>
+          <Kind>WrapAfter</Kind>
+        </WrapOpenBrace>
+      </Item>
+      <Item Id="{e17f171b-b192-4eea-a017-4f4216755705}" Type="DevExpress.CodeRush.Formatting.UI.Options.Conversion.MethodBracesOption">
+        <WrapOpenBrace>
+          <Kind>WrapAfter</Kind>
+        </WrapOpenBrace>
+      </Item>
+      <Item Id="{3920243c-1bac-46ce-960d-e4186d99c187}" Type="DevExpress.CodeRush.Formatting.UI.Options.Conversion.PropertyBracesOption">
+        <WrapOpenBrace>
+          <Option>WrapIfLong</Option>
+          <Kind>WrapAfter</Kind>
+        </WrapOpenBrace>
+        <WrapCloseBrace>
+          <Option>WrapIfLong</Option>
+        </WrapCloseBrace>
+      </Item>
+      <Item Id="{1952ca32-6dff-414c-b446-9c19dabedcc4}" Type="DevExpress.CodeRush.Formatting.UI.Options.Conversion.AccessorBracesOption">
+        <WrapOpenBrace>
+          <Kind>WrapAfter</Kind>
+        </WrapOpenBrace>
+      </Item>
+      <Item Id="{5c85c8c8-501e-4a52-a990-2df5c9f068e6}" Type="DevExpress.CodeRush.Formatting.UI.Options.Conversion.AnonymousMethodBracesOption">
+        <WrapOpenBrace>
+          <Kind>WrapAfter</Kind>
+        </WrapOpenBrace>
+      </Item>
+      <Item Id="{96acee87-0d55-4a99-9c55-49009b17f258}" Type="DevExpress.CodeRush.Formatting.UI.Options.Conversion.StatementBracesOption">
+        <WrapOpenBrace>
+          <Kind>WrapAfter</Kind>
+        </WrapOpenBrace>
+      </Item>
+    </Options>
+  </Options>
+</Root>

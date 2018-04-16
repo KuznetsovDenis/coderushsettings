@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Options Language="Neutral">
+    <GeneralNodes>
+      <Item Id="Namespace">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>75</CustomOpacity>
+        <NodeName>Namespace</NodeName>
+        <SuppressDrawing>True</SuppressDrawing>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Class">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>75</CustomOpacity>
+        <NodeName>Class</NodeName>
+        <SuppressDrawing>True</SuppressDrawing>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Struct">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>75</CustomOpacity>
+        <NodeName>Struct</NodeName>
+        <SuppressDrawing>True</SuppressDrawing>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Interface">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>75</CustomOpacity>
+        <NodeName>Interface</NodeName>
+        <SuppressDrawing>True</SuppressDrawing>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Enum">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>75</CustomOpacity>
+        <NodeName>Enum</NodeName>
+        <SuppressDrawing>True</SuppressDrawing>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Method">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>96</CustomOpacity>
+        <NodeName>Method</NodeName>
+      </Item>
+      <Item Id="Property">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>96</CustomOpacity>
+        <NodeName>Property</NodeName>
+      </Item>
+      <Item Id="Property Getter">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>96</CustomOpacity>
+        <NodeName>Property Getter</NodeName>
+      </Item>
+      <Item Id="Property Setter">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>96</CustomOpacity>
+        <NodeName>Property Setter</NodeName>
+      </Item>
+      <Item Id="Event">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>96</CustomOpacity>
+        <NodeName>Event</NodeName>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Event Add">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>48</CustomOpacity>
+        <NodeName>Event Add</NodeName>
+      </Item>
+      <Item Id="Event Remove">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>48</CustomOpacity>
+        <NodeName>Event Remove</NodeName>
+      </Item>
+      <Item Id="Event Raise">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>48</CustomOpacity>
+        <NodeName>Event Raise</NodeName>
+      </Item>
+      <Item Id="Try">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Try</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Finally">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Finally</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Catch">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Catch</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="For">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>For</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="ForEach">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>ForEach</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Block">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Block</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="While">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>While</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Do">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Do</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="With">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>With</NodeName>
+      </Item>
+      <Item Id="Switch">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Switch</NodeName>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Case">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Case</NodeName>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="If">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>If</NodeName>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Else">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Else</NodeName>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Fixed">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Fixed</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Lock">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Lock</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Using">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Using</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Unsafe">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>72</CustomOpacity>
+        <NodeName>Unsafe</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Object initializer">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>48</CustomOpacity>
+        <NodeName>Object initializer</NodeName>
+      </Item>
+      <Item Id="Anonymous method">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>48</CustomOpacity>
+        <CustomThickness>2</CustomThickness>
+        <NodeName>Anonymous method</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Lambda expression">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>48</CustomOpacity>
+        <CustomThickness>2</CustomThickness>
+        <NodeName>Lambda expression</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Array initializer">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>48</CustomOpacity>
+        <CustomThickness>2</CustomThickness>
+        <NodeName>Array initializer</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+      <Item Id="Xaml element">
+        <CustomDarkColor>FF000000</CustomDarkColor>
+        <CustomLightColor>FF000000</CustomLightColor>
+        <CustomOpacity>96</CustomOpacity>
+        <CustomThickness>2</CustomThickness>
+        <NodeName>Xaml element</NodeName>
+        <UseCustomColor>False</UseCustomColor>
+        <UseCustomOpacity>False</UseCustomOpacity>
+      </Item>
+    </GeneralNodes>
+  </Options>
+</Root>
